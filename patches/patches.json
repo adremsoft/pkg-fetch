@@ -1,6 +1,6 @@
 {
-  "v14.16.0": [
-    "node.v14.16.0.cpp.patch"
+  "v14.16.1": [
+    "node.v14.16.1.cpp.patch"
   ],
   "v14.15.5": [
     "node.v14.15.5.cpp.patch"
